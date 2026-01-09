@@ -10,10 +10,6 @@ This repository hosts a dual-model approach for breast cancer research, focusing
 + Medical image segmentation: Implements deep learning models to detect breast cancer regions in MRI/mammography scans.
 + Multi-modal approach: Combines single-cell analysis and image processing for a comprehensive cancer detection framework.
 
-## Dataset
-
-Single-cell data: [Dataset source or link]
-
 ### Medical images:
 
 #### DDSM - Digital Database for Screening Mammography
@@ -97,6 +93,3 @@ With progressive learning, our EfficientNetV2 significantly outperforms previous
 pretraining on the same ImageNet21k, our EfficientNetV2 achieves 87.3% top-1 accuracy on
 ImageNet ILSVRC2012, outperforming the recent ViT by 2.0% accuracy while training 5x-11x
 faster using the same computing resources.
-
-
-## Results
